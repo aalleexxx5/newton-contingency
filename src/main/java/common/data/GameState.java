@@ -7,6 +7,7 @@ public class GameState {
 	ArrayList<Entity> gameEntities;
 	// Map Todo
 	// Game bounds Todo
+	// Time passed between frames
 	
 	//Functionality:
 	// Get all entities Todo
