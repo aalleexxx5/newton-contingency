@@ -1,4 +1,4 @@
-package Services;
+package main.java.services;
 
 public interface Drawable {
 

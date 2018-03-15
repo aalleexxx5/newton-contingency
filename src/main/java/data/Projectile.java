@@ -1,6 +1,7 @@
-package Data;
+package main.java.data;
 
-import Services.Collidable;
+
+import main.java.services.Collidable;
 
 public class Projectile extends Entity implements Collidable {
     public Enum getHostility() {

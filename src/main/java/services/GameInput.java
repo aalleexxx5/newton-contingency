@@ -1,4 +1,4 @@
-package Services;
+package main.java.services;
 
 public interface GameInput {
     //registerkey will have to return callback:function

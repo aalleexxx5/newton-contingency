@@ -1,4 +1,4 @@
-package Data;
+package main.java.data;
 
 public enum Hostility {
 }
