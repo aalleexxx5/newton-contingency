@@ -1,4 +1,4 @@
-package main.java.services;
+package common.services;
 
 public interface Equipable {
 

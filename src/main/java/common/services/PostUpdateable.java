@@ -1,9 +1,7 @@
-package main.java.services;
+package common.services;
 
-public interface Updatable {
-
+public interface PostUpdateable {
 
     //update method need state:groupstate as parameter
     public void update();
-
 }
